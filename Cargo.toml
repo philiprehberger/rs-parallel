@@ -1,0 +1,16 @@
+[package]
+name = "philiprehberger-parallel"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.70"
+authors = ["Philip Rehberger"]
+description = "Easy parallel iteration — par_map, par_filter, par_for_each with progress and error collection"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/philiprehberger/rs-parallel"
+documentation = "https://docs.rs/philiprehberger-parallel"
+keywords = ["parallel", "concurrency", "map", "iterator", "rayon"]
+categories = ["concurrency", "algorithms"]
+
+[dependencies]
+rayon = "1"
