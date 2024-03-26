@@ -4,7 +4,7 @@
 [![Crates.io](https://img.shields.io/crates/v/philiprehberger-parallel.svg)](https://crates.io/crates/philiprehberger-parallel)
 [![License](https://img.shields.io/github/license/philiprehberger/rs-parallel)](LICENSE)
 
-Easy parallel iteration utilities built on [rayon](https://crates.io/crates/rayon). Adds `par_map`, `par_filter`, `par_for_each`, and more to any iterator.
+Easy parallel iteration — par_map, par_filter, par_for_each with progress and error collection
 
 ## Installation
 
