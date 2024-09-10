@@ -10,12 +10,10 @@ Easy parallel iteration — par_map, par_filter, par_for_each with progress and 
 
 ```toml
 [dependencies]
-philiprehberger-parallel = "0.1.0"
+philiprehberger-parallel = "0.1.1"
 ```
 
 ## Usage
-
-### Extension trait
 
 ```rust
 use philiprehberger_parallel::ParIter;
