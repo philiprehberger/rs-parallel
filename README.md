@@ -10,7 +10,7 @@ Easy parallel iteration — par_map, par_filter, par_for_each with progress and 
 
 ```toml
 [dependencies]
-philiprehberger-parallel = "0.1.1"
+philiprehberger-parallel = "0.1.2"
 ```
 
 ## Usage
@@ -82,7 +82,7 @@ All `ParIter` methods have `_with` variants on `ParIterWith` that accept a `&Par
 
 ## Development
 
-```sh
+```bash
 cargo test
 cargo clippy -- -D warnings
 ```

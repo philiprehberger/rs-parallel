@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 (2026-03-22)
+
+- Fix README formatting
+
 ## 0.1.1 (2026-03-22)
 
 - Fix README and CI compliance
